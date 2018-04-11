@@ -1,0 +1,40 @@
+h1{font-family:Avenir;
+  color:white;
+font-size:60px;
+background-color:#222;
+padding:60px;}
+h2{font-size: 40px;
+font-weight: bold;}
+h3{font-size: 30px}
+h5{font-size: 40px;
+color: #DA000D}
+h6{font-size: 15px;
+  color:white;
+background-color:#DA000D;width: 150px;
+padding:5px;}
+body{margin:40px;
+border:1px solid color:#f2f2f2;
+font-family:Avenir;
+font-size: 20px;}
+
+.topp-puff {background-color: #f2f2f2;
+  padding-left:60px;
+padding-right: 60px;
+padding-bottom: 60px}
+
+.Kategori-1 {background-color: #f2f2f2;
+padding:60px}
+
+.source{
+  color: grey;
+  font-size: 15px;
+  padding-top: 5px;
+}
+.time{
+color:grey;
+font-size: 15px;
+padding-top: 5px;
+}
+p{
+  margin: 0;
+}
