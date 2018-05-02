@@ -48,16 +48,23 @@ p{
   margin: 20px
 }
 
-.topp-puff {
+.topp-puff  img {
   padding-top: 40px;
   padding-bottom: 40px;
-  padding-left: 40px;
+  padding-left: 0px;
   padding-right:40px;
-  text-align:bottom;
+  position:relative;
   width: 100%;
-  height: 600px;
-  background-image: url("Strandhus.jpg");
-  background-size: cover;
+  height: 100%;
+}
+.copy{
+  position: absolute;
+top: 89px;
+left: 100px;
+}
+
+.toppen{
+  position: relative;
 }
 
 .topp-puff p{
@@ -79,7 +86,7 @@ padding-right:10px;
 
 .puff-2 img{
   width: 100%;
-  height: 25%;
+  height: 100%;
 }
 
 .bildbehållare-stor-1{
