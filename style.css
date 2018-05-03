@@ -57,10 +57,11 @@ p{
   width: 100%;
   height: 100%;
 }
+
 .copy{
   position: absolute;
-top: 89px;
-left: 100px;
+  top: 89px;
+  left: 100px;
 }
 
 .toppen{
@@ -68,11 +69,11 @@ left: 100px;
 }
 
 .topp-puff p{
-width: 60%;
+  width: 60%;
 }
 
 .topp-puff h2{
-width: 60%;
+  width: 60%;
 }
 
 .Grey-background {
@@ -80,8 +81,8 @@ width: 60%;
 }
 
 .puff-2 {
-padding-left: 10px;
-padding-right:10px;
+  padding-left: 10px;
+  padding-right:10px;
 }
 
 .puff-2 img{
@@ -90,19 +91,18 @@ padding-right:10px;
 }
 
 .bildbehållare-stor-1{
-
 }
 
-.source{
+.source {
   color: grey;
   font-size: 15px;
   padding-top: 5px;
 }
 
-.time{
-color:grey;
-font-size: 15px;
-padding-top: 5px;
+.time {
+  color:grey;
+  font-size: 15px;
+  padding-top: 5px;
 }
 
 
@@ -126,7 +126,7 @@ padding-top: 5px;
   height: 100px;
   margin: 20px;
   background: #a9a9ff;
-}
+  }
 
 
 .outer_container {
@@ -152,12 +152,12 @@ padding-top: 5px;
 }
 
 @media (max-width: 600px) {
-  h2{
+  h2 {
     font-size: 20px;
     font-weight: black;
   }
 
-  h5{
+  h5 {
     font-size:20px;
 }
 
@@ -167,11 +167,11 @@ padding-top: 5px;
 }
 
 .topp-puff h2{
-width: 100%;
+  width: 100%;
 }
 
 .topp-puff p{
-width: 100%;
+  width: 100%;
 }
 
 }

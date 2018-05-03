@@ -12,7 +12,7 @@ const recievedNews = (newsdata) => {
       div.className = "puff-2"
 
 
-
+      
 
 			//This fetches and add images to our articles
 			const img = document.createElement("img")
